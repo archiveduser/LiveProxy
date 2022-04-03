@@ -1,0 +1,30 @@
+[
+    {
+        "name": "NBCNews",
+        "channel": "UCeY0bbntWzzVIaj2z3QigXg",
+        "video": "nbcnews",
+        "audio": null,
+        "notify": [
+            {
+                "type": "private",
+                "to": "100000"
+            },
+            {
+                "type": "group",
+                "to": "100000"
+            }
+        ]
+    },
+    {
+        "name": "Vox Akuma",
+        "channel": "UCckdfYDGrjojJM28n5SHYrA",
+        "video": "vox",
+        "audio": "vox_audio",
+        "notify": [
+            {
+                "type": "private",
+                "to": 1019728153
+            }
+        ]
+    }
+]
